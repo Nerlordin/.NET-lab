@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lab7_net.props" />
+</Project>
