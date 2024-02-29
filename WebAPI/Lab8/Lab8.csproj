@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.Authentication.Basic" Version="7.0.0" />
+    <PackageReference Include="LiteDB" Version="5.0.17" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\1.jpg" />
+    <None Include="wwwroot\images\10.jpg" />
+    <None Include="wwwroot\images\2.jpg" />
+    <None Include="wwwroot\images\3.jpg" />
+    <None Include="wwwroot\images\4.jpg" />
+    <None Include="wwwroot\images\5.jpg" />
+    <None Include="wwwroot\images\6.jpg" />
+    <None Include="wwwroot\images\7.jpg" />
+    <None Include="wwwroot\images\8.jpg" />
+    <None Include="wwwroot\images\9.jpg" />
+  </ItemGroup>
+
+</Project>

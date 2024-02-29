@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "oN82vzMy+wqer/QiMbl45dlV/KZZfNT6QX1KqsRMBmGpJhCPRe31qm5ozmxhYWqTFTDvzdVmRFADMJhnVaKxkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adrian\\source\\repos\\Lab8\\Lab8\\Lab8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adrian\\.nuget\\packages\\aspnetcore.authentication.basic\\7.0.0\\aspnetcore.authentication.basic.7.0.0.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\litedb\\5.0.17\\litedb.5.0.17.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
