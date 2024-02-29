@@ -1,0 +1,15 @@
+C:\Users\Adrian\source\repos\HighScore\HighScore\bin\Debug\net6.0\HighScore.exe
+C:\Users\Adrian\source\repos\HighScore\HighScore\bin\Debug\net6.0\HighScore.deps.json
+C:\Users\Adrian\source\repos\HighScore\HighScore\bin\Debug\net6.0\HighScore.runtimeconfig.json
+C:\Users\Adrian\source\repos\HighScore\HighScore\bin\Debug\net6.0\HighScore.dll
+C:\Users\Adrian\source\repos\HighScore\HighScore\bin\Debug\net6.0\HighScore.pdb
+C:\Users\Adrian\source\repos\HighScore\HighScore\obj\Debug\net6.0\HighScore.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\HighScore\HighScore\obj\Debug\net6.0\HighScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\HighScore\HighScore\obj\Debug\net6.0\HighScore.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\HighScore\HighScore\obj\Debug\net6.0\HighScore.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\HighScore\HighScore\obj\Debug\net6.0\HighScore.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\HighScore\HighScore\obj\Debug\net6.0\HighScore.dll
+C:\Users\Adrian\source\repos\HighScore\HighScore\obj\Debug\net6.0\refint\HighScore.dll
+C:\Users\Adrian\source\repos\HighScore\HighScore\obj\Debug\net6.0\HighScore.pdb
+C:\Users\Adrian\source\repos\HighScore\HighScore\obj\Debug\net6.0\HighScore.genruntimeconfig.cache
+C:\Users\Adrian\source\repos\HighScore\HighScore\obj\Debug\net6.0\ref\HighScore.dll
